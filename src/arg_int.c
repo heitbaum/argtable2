@@ -27,6 +27,7 @@ USA.
 /* #ifdef HAVE_STDLIB_H */
 #include <stdlib.h>
 /* #endif */
+#include <ctype.h>
 
 #include "argtable2.h"
 #include <limits.h>
